@@ -3,7 +3,6 @@ let main = document.getElementById('main');
 main.remove();
 
 let newHeader = document.createElement('h1');
-newHeader.id = 'h1';
 newHeader.innerHTML = 'this is innerHtml text';
 document.body.appendChild(newHeader);
 
