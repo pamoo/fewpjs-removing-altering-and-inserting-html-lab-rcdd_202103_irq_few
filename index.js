@@ -18,5 +18,8 @@ content = someTextArea.value
 node.innerHTML = 'Hi, ${content}!'
 
 element.style.backgroundColor = '#27647B';
+element.style.textAlign = 'center';
+ul.style.textAlign = 'left'
+
 
 
