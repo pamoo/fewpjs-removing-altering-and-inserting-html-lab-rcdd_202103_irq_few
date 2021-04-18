@@ -17,5 +17,6 @@ header.innerHTML = "<h1>Poodles!</h1><h3>An Essay into the Pom-Pom as Aesthetic 
 content = someTextArea.value
 node.innerHTML = 'Hi, ${content}!'
 
+element.style.backgroundColor = '#27647B';
 
 
