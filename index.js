@@ -10,3 +10,5 @@ for (let i = 0; i < 3; i++) {
 }
  
 element.appendChild(ul)
+let element = document.querySelector("p#greeting");
+element.innerHTML = 'Hello, DOM!'
